@@ -12,7 +12,7 @@ Este projeto foi desenvolvido para o **Programa Agrinho 2025** com o objetivo de
 - Visual Studio Code
 
 ## 🌐 Acesse o site
-[🔗 Clique aqui para acessar o site publicado] (git@github.com:marizinhaaa/Agrinho2025.git)
+[🔗 Clique aqui para acessar o site publicado] (https://github.com/marizinhaaa/Agrinho2025)
 
 ## 📄 Instruções
 - Clone o repositório ou abra o `index.html` em um navegador.
